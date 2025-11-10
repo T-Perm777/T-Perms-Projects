@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(40, 40, 40);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3 {
+    color: rgb(232, 232, 232);
+    text-align: center;
+}
+p {
+    color: lightslategray;
+    text-align: left;
+    margin-left: 20px;
+}
+a:link {
+    color:lightslategrey
+}
+a:visited {
+    color:lightslategray
+}
+li {
+    color:lightslategrey
+}
